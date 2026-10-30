@@ -1,0 +1,26 @@
+﻿staff_id,first_name,last_name,department,job_title,annual_salary_dzd,joining_date,branch_name,employment_status,active_flag
+1,Maya,Chen,Admin,Operations Manager,3200000,2023-05-16,Oran,Active,True
+2,Nadia,Bell,Human Resources,HR Manager,3450000,2021-02-10,Algiers,Active,True
+3,Yusuf,Karim,Admin,Finance Coordinator,2100000,2022-09-01,Oran,Active,True
+4,Lina,Haddad,Human Resources,HR Analyst,2850000,2024-03-11,Constantine,Active,True
+5,Omar,Saidi,Workshop,Senior Technician,2650000,2020-07-19,Oran,Active,True
+6,Sara,Benali,Sales,Rental Advisor,1650000,2025-01-08,Tlemcen,Active,True
+7,Karim,Toumi,Operations,Fleet Lead,3050000,2022-04-25,Algiers,Active,True
+8,Amel,Boudiaf,Admin,Procurement Manager,3000000,2025-06-02,Constantine,Active,True
+9,Idris,Mansour,Human Resources,Recruitment Specialist,2350000,2021-11-03,Tlemcen,Active,True
+10,Leila,Rahmani,Workshop,Repair Technician,1900000,2023-09-14,Oran,Active,True
+11,Samir,Kaci,Sales,Branch Supervisor,2750000,2022-01-13,Algiers,Active,True
+12,Ines,Cherif,Operations,Logistics Planner,2480000,2024-02-18,Constantine,Active,True
+13,Rayan,Bouzid,Workshop,Service Manager,3150000,2019-12-01,Oran,Active,True
+14,Yasmine,Merabet,Admin,Office Coordinator,1850000,2025-10-20,Tlemcen,Active,True
+15,Walid,Fares,Sales,Sales Lead,3100000,2020-05-07,Algiers,Active,True
+16,Nour,Ait Ali,Operations,Branch Coordinator,1550000,2026-01-12,Tlemcen,Active,True
+17,Imane,Belkacem,Human Resources,HR Assistant,1400000,2024-08-07,Oran,Active,True
+18,Adel,Ziani,Workshop,Senior Mechanic,2950000,2021-06-23,Constantine,Active,True
+19,Meriem,Ouali,Admin,Finance Analyst,2900000,2023-03-16,Algiers,Active,True
+20,Tarek,Seddik,Operations,Fleet Coordinator,1950000,2022-12-05,Oran,Active,False
+21,Farah,Meziane,Sales,Sales Associate,1250000,2026-02-19,Constantine,Active,True
+22,Bilal,Hadji,Workshop,Apprentice Technician,1100000,2025-09-01,Tlemcen,Active,True
+23,Dounia,Gacem,Human Resources,People Operations Manager,3300000,2020-08-27,Algiers,Active,True
+24,Sofiane,Bensaid,Operations,Regional Operations Lead,3500000,2018-04-04,Oran,Active,True
+25,Khadija,Saou,Workshop,Inventory Controller,2050000,2024-06-15,Constantine,Active,True

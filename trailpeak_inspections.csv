@@ -1,0 +1,26 @@
+﻿inspection_id,gear_item,branch_name,inspection_date,inspector_first_name,inspector_last_name,condition_score,risk_category,inspection_status,follow_up_required
+5001,Trailblazer 3-Person Tent,Oran,2026-08-20,Omar,Saidi,98,Low,Pass,False
+5002,Summit Pro Harness,Algiers,2026-08-21,Adel,Ziani,91,Moderate,Monitor,True
+5003,Touring Kayak,Oran,2026-08-22,Khadija,Saou,87,High,Repair Required,True
+5004,Gravel Bike,Algiers,2026-08-23,Rayan,Bouzid,96,Low,Pass,False
+5005,Family Basecamp Tent,Constantine,2026-08-24,Omar,Saidi,89,Moderate,Monitor,True
+5006,Trailblazer 3-Person Tent,Oran,2026-09-01,Leila,Rahmani,93,Moderate,Monitor,True
+5007,GPS Navigator,Algiers,2026-09-02,Khadija,Saou,84,High,Repair Required,True
+5008,Glacier Sleeping Bag,Tlemcen,2026-09-03,Omar,Saidi,99,Low,Pass,False
+5009,Inflatable Paddleboard,Oran,2026-09-04,Adel,Ziani,76,Critical,Remove from Service,True
+5010,City Hybrid Bike,Tlemcen,2026-09-05,Rayan,Bouzid,90,Moderate,Monitor,True
+5011,Lightweight Climbing Rope,Tlemcen,2026-09-06,Khadija,Saou,94,Moderate,Monitor,True
+5012,Compact Camp Stove,Oran,2026-09-07,Leila,Rahmani,82,High,Repair Required,True
+5013,Summit Pro Harness,Algiers,2026-09-10,Adel,Ziani,97,Low,Pass,False
+5014,Trailblazer 3-Person Tent,Constantine,2026-09-11,Omar,Saidi,88,High,Repair Required,True
+5015,All-Mountain Skis,Algiers,2026-09-12,Rayan,Bouzid,92,Moderate,Monitor,True
+5016,Hydration Pack,Constantine,2026-09-13,Khadija,Saou,100,Low,Pass,False
+5017,Touring Kayak,Oran,2026-09-14,Adel,Ziani,93,Moderate,Monitor,True
+5018,Gravel Bike,Algiers,2026-09-15,Leila,Rahmani,79,Critical,Remove from Service,True
+5019,Family Basecamp Tent,Constantine,2026-09-16,Omar,Saidi,95,Low,Pass,False
+5020,Climbing Helmet,Algiers,2026-09-17,Khadija,Saou,86,High,Repair Required,True
+5021,Trailblazer 3-Person Tent,Oran,2026-09-22,Leila,Rahmani,96,Low,Pass,False
+5022,Compact Camp Stove,Oran,2026-09-23,Adel,Ziani,91,Moderate,Monitor,True
+5023,City Hybrid Bike,Tlemcen,2026-09-24,Rayan,Bouzid,97,Low,Pass,False
+5024,Touring Kayak,Oran,2026-10-01,Khadija,Saou,89,High,Repair Required,True
+5025,Lightweight Climbing Rope,Tlemcen,2026-10-02,Leila,Rahmani,98,Low,Pass,False

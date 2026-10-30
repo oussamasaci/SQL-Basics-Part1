@@ -1,0 +1,29 @@
+﻿rental_id,customer_first_name,customer_last_name,gear_category,gear_item,quantity,daily_rate_dzd,rental_days,rental_date,rental_status,branch_name
+1001,Lina,Amrani,Camping,Trailblazer 3-Person Tent,1,2500.0,3,2026-09-02,Returned,Oran
+1002,Yacine,Haddad,Climbing,Summit Pro Harness,2,900.0,2,2026-09-05,Overdue,Algiers
+1003,Samia,Merabet,Hiking,Alpine Trekking Poles,1,700.0,4,2026-09-07,Returned,Constantine
+1004,Lina,Amrani,Camping,Trailblazer 3-Person Tent,1,2500.0,2,2026-09-18,Returned,Oran
+1005,Omar,Zeroual,Cycling,Gravel Bike,1,4200.0,2,2026-09-11,Active,Algiers
+1006,Nour,Benaissa,Winter Sports,Glacier Sleeping Bag,2,1200.0,3,2026-09-12,Returned,Tlemcen
+1007,Adam,Khellaf,Water Sports,Touring Kayak,1,3500.0,1,2026-09-13,Returned,Oran
+1008,Yasmine,Saadi,Camping,Family Basecamp Tent,1,3800.0,3,2026-09-14,Overdue,Constantine
+1009,Mehdi,Kaci,Climbing,Lightweight Climbing Rope,1,1500.0,2,2026-09-15,Returned,Tlemcen
+1010,Sara,Cherif,Hiking,GPS Navigator,1,1800.0,5,2026-09-16,Active,Algiers
+1011,Riad,Bouzid,Cycling,Gravel Bike,2,4200.0,1,2026-09-17,Returned,Algiers
+1012,Yacine,Haddad,Climbing,Summit Pro Harness,1,900.0,4,2026-09-20,Returned,Algiers
+1013,Amira,Belkacem,Climbing ,Summit Pro Harness,1,900.0,2,2026-09-20,Active,Oran
+1014,Anis,Mansouri,Camping,Compact Camp Stove,2,800.0,3,2026-09-21,Returned,Tlemcen
+1015,Meriem,Ouali,Hiking,Hydration Pack,1,1100.0,6,2026-09-22,Overdue,Constantine
+1016,Ilyes,Rahmani,Water Sports,Inflatable Paddleboard,1,3200.0,2,2026-09-23,Active,Oran
+1017,Hiba,Kaci,Winter Sports,All-Mountain Skis,2,2700.0,2,2026-09-24,Returned,Algiers
+1018,Khaled,Saidi,Cycling,City Hybrid Bike,1,2800.0,4,2026-09-25,Returned,Tlemcen
+1019,Lina,Amrani,Hiking,GPS Navigator,1,1800.0,2,2026-10-01,Returned,Oran
+1020,Farid,Boudiaf,Camping,Trailblazer 3-Person Tent,2,2500.0,2,2026-10-02,Active,Constantine
+1021,Sonia,Toumi,Climbing,Climbing Helmet,3,650.0,3,2026-10-03,Returned,Algiers
+1022,Nabil,Cherif,Water Sports,Touring Kayak,2,3500.0,2,2026-10-04,Overdue,Oran
+1023,Dalia,Zeroual,Cycling,City Hybrid Bike,1,2800.0,1,2026-10-05,Cancelled,Tlemcen
+1024,Amina,Hadji,Hiking,Alpine Trekking Poles,2,700.0,5,2026-10-06,Returned,Constantine
+1025,Riad,Bouzid,Cycling,Gravel Bike,1,4200.0,3,2026-10-07,Active,Algiers
+1026,Nour,Benaissa,Winter Sports,Glacier Sleeping Bag,1,1200.0,2,2026-10-08,Returned,Tlemcen
+1027,Sami,Gacem,Camping,Compact Camp Stove,1,800.0,1,2026-10-09,Returned,Oran
+1028,Ines,Cherif,Hiking,Hydration Pack,2,1100.0,4,2026-10-10,Overdue,Constantine
